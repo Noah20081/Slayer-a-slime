@@ -20,7 +20,7 @@ local bossData = {
 
 ["Ogre Lord"] = Vector3.new(4563,255,6680),
 
-["Monarch Statue"] = Vector3.new(7814,267,9118)
+["Monarch Statue"] = Vector3.new(7787, 263, 9251)
 
 }
 
